@@ -27,12 +27,18 @@
     <ClCompile Include="BasicVideo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MatOps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BasicImage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="BasicVideo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatOps.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

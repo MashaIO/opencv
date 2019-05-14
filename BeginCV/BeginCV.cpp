@@ -3,11 +3,12 @@
 #include <string>
 #include "BasicImage.h"
 #include "BasicVideo.h"
+#include "MatOps.h"
 
 using namespace cv;
 using namespace std;
 
 int main()
 {
-	return basicImage2();
+	return matOps();
 }

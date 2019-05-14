@@ -155,11 +155,13 @@
     <ClCompile Include="BasicImage.cpp" />
     <ClCompile Include="BasicVideo.cpp" />
     <ClCompile Include="BeginCV.cpp" />
+    <ClCompile Include="MatOps.cpp" />
     <ClCompile Include="WebCam.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BasicImage.h" />
     <ClInclude Include="BasicVideo.h" />
+    <ClInclude Include="MatOps.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
